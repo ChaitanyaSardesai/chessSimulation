@@ -24,3 +24,8 @@ HOW TO RUN
 HOW TO TEST
 
 1. npm test
+
+LIBRARIES USED
+
+1."node": "^15.14.0"
+2."jasmine-node": "^3.0.0",
