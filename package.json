@@ -1,0 +1,16 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "chess simulator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jasmine"
+  },
+  "author": "chaitanya sardesai",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^3.0.0",
+    "node": "^15.14.0"
+  }
+}
